@@ -5,6 +5,9 @@
 - [Vim plugins](#vim-plugins)
 - [Neovim plugins](#neovim-plugins)
 - [Vim/Neovim configs and bundles](#vimneovim-configs-and-bundles)
+- [Windows software](#windows-software)
+- [Firefox extensions and themes](#firefox-extensions-and-themes)
+- [X96 Software](#x96-software)
 
 ## Vim plugins
 
@@ -80,4 +83,30 @@
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution. It manages collections of plugins in layers, which help to collect related plugins together to provide IDE-like features.
 - [LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults.
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins.
+
+## Windows software
+- [Media Player Classic - Home Cinema (MPC-HC)](https://github.com/clsid2/mpc-hc) - A free and open-source video and audio player for Windows.
+- [Microsoft PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity.
+- [ImageGlass](https://github.com/d2phap/ImageGlass) - A lightweight, versatile image viewer.
+- [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - A free, open source macro-creation and automation software utility that allows users to automate repetitive tasks.
+- [Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+- [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
+- [7-Zip](https://www.7-zip.org/) - A file archiver with a high compression ratio.
+- [LibreOffice](https://www.libreoffice.org/) - A free and powerful office suite.
+- [Spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser.
+- [GIMP](https://www.gimp.org/) - A cross-platform image editor.
+- [MarkText](https://github.com/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [PeaZip](https://github.com/peazip/PeaZip) - A cross-platform file and archive manager.
+
+## Firefox extensions and themes
+
+- [uBlock Origin](https://github.com/gorhill/uBlock#firefox--firefox-for-android) - An efficient blocker for Chromium and Firefox.
+- [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - Some improvements to Proton UI.
+- [Proton-Chrome-Light-Theme](https://github.com/zhangtianli2006/Proton-Chrome-Light-Theme) - Proton Chrome Light Theme for Firefox to Adapt the new Proton Design.
+- [Vimium](https://github.com/philc/vimium) - A browser extension that provides keyboard-based navigation and control of the web in the spirit of the Vim editor.
+- [tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks.
+
+## X96 Software
+
+- [OpenWrt for Amlogic TV Boxes](https://github.com/ophub/amlogic-s9xxx-openwrt) - OpenWrt for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.
 
