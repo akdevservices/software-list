@@ -5,8 +5,6 @@
 - [Vim plugins](#vim-plugins)
 - [Neovim plugins](#neovim-plugins)
 - [Vim/Neovim configs and bundles](#vimneovim-configs-and-bundles)
-- [Vim tutorials and cheatsheets](#vim-tutorials-and-cheatsheets)
-- [Neovim tutorials](#neovim-tutorials)
 
 ## Vim plugins
 
