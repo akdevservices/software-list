@@ -42,6 +42,7 @@
 - [ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support.
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for Vim & Neovim, load extensions like VSCode and host language servers.
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim.
+- [vim-dispatch](https://github.com/tpope/vim-dispatch) - Asynchronous build and test dispatcher.
 - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more.
 - [vim-eunuch](https://github.com/tpope/vim-eunuch) - Vim sugar for the UNIX shell commands that need it the most.
 - [close-buffers.vim](https://github.com/Asheq/close-buffers.vim) - Quickly bdelete several buffers at once. It is useful if you want to prune your buffer list or free up memory.
