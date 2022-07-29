@@ -4,7 +4,7 @@
 
 - [Vim plugins](#vim-plugins)
 - [Neovim plugins](#neovim-plugins)
-- [Vim/Neovim configs and bundles](#vim/neovim-configs-and-bundles)
+- [Vim/Neovim configs and bundles](#vimneovim-configs-and-bundles)
 
 ## Vim plugins
 
