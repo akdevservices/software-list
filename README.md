@@ -9,6 +9,7 @@
 - [Windows software](#windows-software)
 - [Firefox extensions and themes](#firefox-extensions-and-themes)
 - [X96 Software](#x96-software)
+- [Themes and color schemes](#themes-and-color-schemes)
 
 ## Vim plugins
 
@@ -88,11 +89,15 @@
 ## Linux Software
 
 #### Terminal emulators
+- [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - A lightweight terminal emulator.
 - [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [Yakuake](https://github.com/KDE/yakuake) - A drop-down terminal emulator based on Konsole technologies.
 - [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature-rich, GPU based terminal.
+- [foot](https://codeberg.org/dnkl/foot) - A fast, lightweight and minimalistic Wayland terminal emulator.
 #### Shells
 - [Starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - An open source, community-driven framework for managing your zsh configuration.
+- [Bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework: a collection of Bash commands and scripts for Bash 3.2+.
 - [sheldon](https://github.com/rossmacarthur/sheldon) - A fast, configurable, shell plugin manager.
 #### Editors
 - [Vim](https://github.com/vim/vim) -  A greatly improved version of the good old UNIX editor Vi.
@@ -106,6 +111,7 @@
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with syntax highlighting and Git integration.
 - [xkb-switch](https://github.com/grwlf/xkb-switch) - A C++ program that allows to query and change the XKB layout state.
+- [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
 - [xmenu](https://github.com/phillbush/xmenu) - A x11 menu utility.
 - [TLP](https://github.com/linrunner/TLP) - A feature-rich command line utility for Linux, saving laptop battery power.
 - [htop](https://github.com/htop-dev/htop) - A cross-platform interactive process viewer.
@@ -118,20 +124,31 @@
 - [git-filter-repo](https://github.com/newren/git-filter-repo) - A versatile tool for rewriting git history.
 - [tig](https://github.com/jonas/tig) - A text-mode interface for git.
 - [forgit](https://github.com/wfxr/forgit) - A utility tool powered by fzf for using git interactively.
+- [git-fuzzy](https://github.com/bigH/git-fuzzy) - A CLI interface to git that relies heavily on fzf.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in rust.
 - [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands.
 - [gitea](https://github.com/go-gitea/gitea) - A self-hosted Git service.
 #### Software development
+- [Visual Studio Code](https://code.visualstudio.com/) - An IDE from Microsoft.
+- [VSCodium](https://github.com/VSCodium/vscodium) - Free/Libre Open Source Software Binaries of VS Code.
+- [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
+- [vscode-theme-generator](https://github.com/Tyriar/vscode-theme-generator) - Easily generate themes for VS Code with only a few colors.
 - [httpie](https://github.com/httpie/httpie) - A modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [clangd](https://github.com/clangd/clangd) - clangd is a language server, and provides C++ IDE features to editors.
 #### Audio tools
 - [deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - A multiple-platform music player.
 - [cmus](https://github.com/cmus/cmus) - A small, fast and powerful console music player for Unix-like operating systems.
+- [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc.
+- [Cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD Client.
 - [beets](https://github.com/beetbox/beets) - A music library manager and MusicBrainz tagger.
 - [Spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser.
 - [Mopidy](https://github.com/mopidy/mopidy) - An extensible music server written in Python.
 #### Video tools
 - [mpv](https://github.com/mpv-player/mpv) - A free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types.
+- [Celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv.
+- [uosc](https://github.com/darsain/uosc) - Minimalist cursor proximity based UI for MPV player.
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source software media player and entertainment hub for digital media.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 - [nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC.
 - [FFmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - VLC plugin that allows you to pause/play a video by clicking on the video image.
@@ -142,6 +159,7 @@
 - [restic](https://github.com/restic/restic) - A backup program that is fast, efficient and secure, supports Linux, macOS, Windows, FreeBSD, OpenBSD.
 - [rclone](https://github.com/rclone/rclone) - rsync for cloud storage, a command-line program to sync files and directories to and from different cloud storage providers.
 - [Timeshift](https://github.com/linuxmint/timeshift) - An application that provides functionality similar to the System Restore feature in Windows and the Time Machine tool in Mac OS.
+- [Snapper](http://snapper.io/) - A tool for Linux file system snapshot management.
 #### Compression tools
 - [zstd](https://github.com/facebook/zstd) - A fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios.
 - [lz4](https://github.com/lz4/lz4) - A lossless compression algorithm, offers fast compression and decompression.
@@ -149,6 +167,23 @@
 - [xz](https://tukaani.org/xz) - Free general-purpose data compression software with a high compression ratio.
 - [7-Zip](https://www.7-zip.org/) - A file archiver with a high compression ratio.
 - [PeaZip](https://github.com/peazip/PeaZip) - A cross-platform file and archive manager.
+#### Image editors and tools
+- [Drawing](https://maoschanz.github.io/drawing) - A free basic raster image editor is similar to Microsoft Paint, but aiming at the GNOME desktop.
+#### Office and productivity apps
+- [LibreOffice](https://www.libreoffice.org/) - A free and powerful office suite.
+- [khal](https://github.com/pimutils/khal) - A standards based CLI and terminal calendar program, able to synchronize with CalDAV servers through vdirsyncer.
+- [Planner](https://github.com/alainm23/planner) - A task manager with Todoist support designed for GNU/Linux.
+#### Window managers (WMs), compositors and related stuff
+- [Awesome](https://github.com/awesomeWM/awesome) - Awesome is a highly configurable, next generation framework window manager for X.
+- [lain](https://github.com/lcpz/lain) - provides alternative layouts, asynchronous widgets and utility functions for Awesome.
+- [Awesome WM Copycats](https://github.com/lcpz/awesome-copycats) - Themes for Awesome WM 4.x.
+- [qtile](https://github.com/qtile/qtile) - A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland).
+- [i3](https://github.com/i3/i3) - i3 is a tiling window manager for X11.
+- [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor.
+- [Polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar.
+- [Bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.
+- [kwin-quarter-tiling](https://github.com/Jazqa/kwin-quarter-tiling) - Quarter Tiling Script for KWin.
+- [Mudeer](https://github.com/darkstego/Mudeer) - KDE Plasma Tiling Manager for Ultrawide and Super Ultrawide monitors.
 
 ## Windows software
 - [Media Player Classic - Home Cinema (MPC-HC)](https://github.com/clsid2/mpc-hc) - A free and open-source video and audio player for Windows.
