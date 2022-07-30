@@ -86,13 +86,17 @@
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins.
 
 ## Linux Software
+
+### Terminal emulators
+- [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [Yakuake](https://github.com/KDE/yakuake) - A drop-down terminal emulator based on Konsole technologies.
+### Shells
 - [Starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [tmux](https://github.com/tmux/tmux) - A terminal multiplexer.
+
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
 - [tig](https://github.com/jonas/tig) - A text-mode interface for git.
-- [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [Yakuake](https://github.com/KDE/yakuake) - A drop-down terminal emulator based on Konsole technologies.
 - [xkb-switch](https://github.com/grwlf/xkb-switch) - A C++ program that allows to query and change the XKB layout state.
 - [Ventoy](https://github.com/ventoy/Ventoy) - An open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 - [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - A simple tool that enable you to create your own USB stick Windows installer from an iso image or a real DVD.
