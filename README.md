@@ -87,10 +87,10 @@
 
 ## Linux Software
 
-### Terminal emulators
+#### Terminal emulators
 - [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [Yakuake](https://github.com/KDE/yakuake) - A drop-down terminal emulator based on Konsole technologies.
-### Shells
+#### Shells
 - [Starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [tmux](https://github.com/tmux/tmux) - A terminal multiplexer.
 
