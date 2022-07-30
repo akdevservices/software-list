@@ -9,6 +9,9 @@
 - [Windows software](#windows-software)
 - [Firefox extensions and themes](#firefox-extensions-and-themes)
 - [X96 Software](#x96-software)
+- [Themes](#themes)
+- [Icons](#icons)
+- [Fonts](#fonts)
 
 ## Vim plugins
 
@@ -17,8 +20,12 @@
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
 - [vim-commentary](https://github.com/tpope/vim-commentary) - Comment stuff out.
 - [vim-rsi](https://github.com/tpope/vim-rsi) - Readline style insertion in Vim.
-- [vim-repeat](https://github.com/tpope/vim-repeat) - Enable repeating supported plugin maps with ".".
-- [vim-lion](https://github.com/tommcdo/vim-lion) - This plugin is a tool for aligning text by some character. It defines some Vim operators that can be used with motion commands to align a targeted block of text.
+- [vim-repeat](https://github.com/tpope/vim-repeat) - Enables repeating supported plugin maps with ".".
+- [vim-lion](https://github.com/tommcdo/vim-lion) - A tool for aligning text by some character. It defines some Vim operators that can be used with motion commands to align a targeted block of text.
+- [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
+- [vim-sneak](https://github.com/justinmk/vim-sneak) - Jumps to any location specified by two characters.
+- [indentLine](https://github.com/Yggdroot/indentLine) - A plugin to display the indention levels with thin vertical lines.
+- [vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides) - A plugin for visually displaying indent levels in code.
 - [vim-markology](https://github.com/jeetsukumaran/vim-markology) - This plugin provides for the visualization, navigation, and management of Vim's (marks).
 - [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim.
 - [vim-sayonara](https://github.com/mhinz/vim-sayonara) - This plugin provides a single command that deletes the current buffer and handles the current window in a smart way.
@@ -107,17 +114,22 @@
 - [tmux](https://github.com/tmux/tmux) - A terminal multiplexer.
 - [TPM](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches the current directory for a regex pattern.
+- [ripgrep-all](https://github.com/phiresky/ripgrep-all) - A line-oriented search tool that allows you to look for a regex in a multitude of file types. rga wraps the awesome ripgrep and enables it to search in pdf, docx, sqlite, jpg, movie subtitles (mkv, mp4), etc.
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with syntax highlighting and Git integration.
+- [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output.
 - [xkb-switch](https://github.com/grwlf/xkb-switch) - A C++ program that allows to query and change the XKB layout state.
 - [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
 - [xmenu](https://github.com/phillbush/xmenu) - A x11 menu utility.
+- [xdg-xmenu](https://github.com/OliverLew/xdg-xmenu) - A shell script to generate menu for xmenu.
 - [TLP](https://github.com/linrunner/TLP) - A feature-rich command line utility for Linux, saving laptop battery power.
 - [htop](https://github.com/htop-dev/htop) - A cross-platform interactive process viewer.
 - [topgrade](https://github.com/r-darwish/topgrade) - A tool to upgrade everything.
 - [Ventoy](https://github.com/ventoy/Ventoy) - An open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 - [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - A simple tool that enable you to create your own USB stick Windows installer from an iso image or a real DVD.
 - [fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware.
+#### Package managers
+- [Pacstall](https://pacstall.dev/) - The AUR for Ubuntu.
 #### VCS
 - [git](https://git-scm.com/) - A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 - [git-filter-repo](https://github.com/newren/git-filter-repo) - A versatile tool for rewriting git history.
@@ -211,4 +223,13 @@
 ## X96 Software
 
 - [OpenWrt for Amlogic TV Boxes](https://github.com/ophub/amlogic-s9xxx-openwrt) - OpenWrt for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.
+
+## Themes
+
+## Icons
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Icon theme for Linux.
+- [Flatery](https://github.com/cbrnix/Flatery) - Icon theme for linux in flat style.
+
+## Fonts
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - A project that patches developer targeted fonts with a high number of glyphs (icons).
 
