@@ -9,7 +9,6 @@
 - [Windows software](#windows-software)
 - [Firefox extensions and themes](#firefox-extensions-and-themes)
 - [X96 Software](#x96-software)
-- [Themes and color schemes](#themes-and-color-schemes)
 
 ## Vim plugins
 
