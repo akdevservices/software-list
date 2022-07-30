@@ -24,7 +24,7 @@
 - [vim-sayonara](https://github.com/mhinz/vim-sayonara) - This plugin provides a single command that deletes the current buffer and handles the current window in a smart way.
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim.
 - [vim-airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline for Vim.
-- [nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for Vim.
+- [NERDTree](https://github.com/preservim/nerdtree) - A tree explorer plugin for Vim.
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
 - [fzf.vim](https://github.com/junegunn/fzf.vim) - Things you can do with fzf and Vim.
 - [ctrlp.vim](https://github.com/kien/ctrlp.vim) - Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
@@ -90,21 +90,64 @@
 #### Terminal emulators
 - [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [Yakuake](https://github.com/KDE/yakuake) - A drop-down terminal emulator based on Konsole technologies.
+- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature-rich, GPU based terminal.
 #### Shells
 - [Starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [tmux](https://github.com/tmux/tmux) - A terminal multiplexer.
-
+- [sheldon](https://github.com/rossmacarthur/sheldon) - A fast, configurable, shell plugin manager.
+#### Editors
+- [Vim](https://github.com/vim/vim) -  A greatly improved version of the good old UNIX editor Vi.
+- [Neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
+- [nano](https://www.nano-editor.org/) - A free replacement for the Pico text editor.
+#### System tools
+- [tmux](https://github.com/tmux/tmux) - A terminal multiplexer.
+- [TPM](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches the current directory for a regex pattern.
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
-- [tig](https://github.com/jonas/tig) - A text-mode interface for git.
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with syntax highlighting and Git integration.
 - [xkb-switch](https://github.com/grwlf/xkb-switch) - A C++ program that allows to query and change the XKB layout state.
+- [xmenu](https://github.com/phillbush/xmenu) - A x11 menu utility.
+- [TLP](https://github.com/linrunner/TLP) - A feature-rich command line utility for Linux, saving laptop battery power.
+- [htop](https://github.com/htop-dev/htop) - A cross-platform interactive process viewer.
+- [topgrade](https://github.com/r-darwish/topgrade) - A tool to upgrade everything.
 - [Ventoy](https://github.com/ventoy/Ventoy) - An open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 - [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - A simple tool that enable you to create your own USB stick Windows installer from an iso image or a real DVD.
-- [partclone](https://github.com/Thomas-Tsai/partclone) - A project that provides utilities to back up and restore used-blocks of a partition and it is designed for higher compatibility of the file system by using existing library.
+- [fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware.
+#### VCS
+- [git](https://git-scm.com/) - A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+- [git-filter-repo](https://github.com/newren/git-filter-repo) - A versatile tool for rewriting git history.
+- [tig](https://github.com/jonas/tig) - A text-mode interface for git.
+- [forgit](https://github.com/wfxr/forgit) - A utility tool powered by fzf for using git interactively.
+- [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in rust.
+- [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands.
+- [gitea](https://github.com/go-gitea/gitea) - A self-hosted Git service.
+#### Software development
 - [httpie](https://github.com/httpie/httpie) - A modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+#### Audio tools
 - [deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - A multiple-platform music player.
+- [cmus](https://github.com/cmus/cmus) - A small, fast and powerful console music player for Unix-like operating systems.
 - [beets](https://github.com/beetbox/beets) - A music library manager and MusicBrainz tagger.
 - [Spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser.
+- [Mopidy](https://github.com/mopidy/mopidy) - An extensible music server written in Python.
+#### Video tools
+- [mpv](https://github.com/mpv-player/mpv) - A free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types.
+- [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source software media player and entertainment hub for digital media.
+- [nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC.
+- [FFmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
+- [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - VLC plugin that allows you to pause/play a video by clicking on the video image.
+#### Backup tools
+- [partclone](https://github.com/Thomas-Tsai/partclone) - A project that provides utilities to back up and restore used-blocks of a partition and it is designed for higher compatibility of the file system by using existing library.
+- [BorgBackup](https://github.com/borgbackup/borg) - A deduplicating backup program, supports compression and authenticated encryption.
+- [rsync](https://rsync.samba.org/) - An open source utility that provides fast incremental file transfer.
+- [restic](https://github.com/restic/restic) - A backup program that is fast, efficient and secure, supports Linux, macOS, Windows, FreeBSD, OpenBSD.
+- [rclone](https://github.com/rclone/rclone) - rsync for cloud storage, a command-line program to sync files and directories to and from different cloud storage providers.
+- [Timeshift](https://github.com/linuxmint/timeshift) - An application that provides functionality similar to the System Restore feature in Windows and the Time Machine tool in Mac OS.
+#### Compression tools
+- [zstd](https://github.com/facebook/zstd) - A fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios.
+- [lz4](https://github.com/lz4/lz4) - A lossless compression algorithm, offers fast compression and decompression.
+- [lzo](http://www.oberhumer.com/opensource/lzo) - a portable lossless data compression library, offers pretty fast compression and extremely fast decompression.
+- [xz](https://tukaani.org/xz) - Free general-purpose data compression software with a high compression ratio.
+- [7-Zip](https://www.7-zip.org/) - A file archiver with a high compression ratio.
 - [PeaZip](https://github.com/peazip/PeaZip) - A cross-platform file and archive manager.
 
 ## Windows software
