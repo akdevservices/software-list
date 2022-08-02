@@ -94,7 +94,9 @@
 
 ## Linux Software
 
-#### Terminal emulators
+#### Terminal emulators and multiplexors
+- [tmux](https://github.com/tmux/tmux) - A terminal multiplexer.
+- [TPM](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager.
 - [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - A lightweight terminal emulator.
 - [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [Yakuake](https://github.com/KDE/yakuake) - A drop-down terminal emulator based on Konsole technologies.
@@ -111,8 +113,6 @@
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
 - [nano](https://www.nano-editor.org/) - A free replacement for the Pico text editor.
 #### System tools
-- [tmux](https://github.com/tmux/tmux) - A terminal multiplexer.
-- [TPM](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches the current directory for a regex pattern.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - A line-oriented search tool that allows you to look for a regex in a multitude of file types. rga wraps the awesome ripgrep and enables it to search in pdf, docx, sqlite, jpg, movie subtitles (mkv, mp4), etc.
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
